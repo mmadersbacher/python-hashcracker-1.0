@@ -73,12 +73,6 @@ python hashcracker.py --hash e364c3ae3c983d7db2d6d3733f6a74271eb8c0e55a9d48e7980
 
 ---
 
-## Lizenz
-
-Dieses Projekt wird unter der MIT-Lizenz veröffentlicht. Das heißt, du darfst den Code frei verwenden, verändern und weitergeben, solange du den Urheber (Mario Madersbacher) nennst und die Lizenz beilegst.
-
----
-
 ## Autor
 
 Mario Madersbacher
