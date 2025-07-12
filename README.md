@@ -71,4 +71,3 @@ Ein Beispiel für Brute-Force mit SHA256-Hash, Zeichensatz „all“ und maximal
 python hashcracker.py --hash e364c3ae3c983d7db2d6d3733f6a74271eb8c0e55a9d48e7980bb3722155305d --method brute --charset all --maxlen 4 --algo sha256
 
 
----
